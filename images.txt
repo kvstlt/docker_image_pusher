@@ -7,4 +7,4 @@ xhofe/alist:latest
 breezedeus/cnocr
 cloudreve/cloudreve
 onlyoffice/documentserver
-wcjiang/refrence
+wcjiang/reference
