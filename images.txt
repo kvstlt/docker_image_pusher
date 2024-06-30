@@ -8,3 +8,4 @@ breezedeus/cnocr
 cloudreve/cloudreve
 onlyoffice/documentserver
 wcjiang/reference
+nyanmisaka/jellyfin
