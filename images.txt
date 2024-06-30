@@ -9,3 +9,4 @@ cloudreve/cloudreve
 onlyoffice/documentserver
 wcjiang/reference
 nyanmisaka/jellyfin
+portainer/portainer
