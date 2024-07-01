@@ -12,3 +12,4 @@ nyanmisaka/jellyfin
 portainer/portainer
 pixman/pixman
 containrrr/watchtower
+xiaoyaliu/alist
