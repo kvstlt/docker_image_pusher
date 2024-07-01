@@ -10,3 +10,5 @@ onlyoffice/documentserver
 wcjiang/reference
 nyanmisaka/jellyfin
 portainer/portainer
+pixman/pixman
+containrrr/watchtower
