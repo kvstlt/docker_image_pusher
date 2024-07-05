@@ -16,3 +16,4 @@ xiaoyaliu/alist
 bitnami/minio
 redis:7.0.12
 mysql:5.7
+gdy666/lucky
