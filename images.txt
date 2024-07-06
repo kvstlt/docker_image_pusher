@@ -19,3 +19,5 @@ mysql:5.7
 gdy666/lucky
 wiznote/wizserver
 joplin/server
+phpmyadmin
+mariadb
