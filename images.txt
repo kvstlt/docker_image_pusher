@@ -24,3 +24,4 @@ mariadb
 hectorqin/reader
 soulteary/flare
 jericx/syncclipboard-server
+freshrss/freshrss
