@@ -21,3 +21,4 @@ wiznote/wizserver
 joplin/server
 phpmyadmin
 mariadb
+hectorqin/reader
