@@ -26,3 +26,4 @@ soulteary/flare
 jericx/syncclipboard-server
 freshrss/freshrss
 haroldli/xiaoya-tvbox
+jackytj/sillyplus
