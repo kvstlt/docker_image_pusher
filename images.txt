@@ -28,3 +28,5 @@ freshrss/freshrss
 haroldli/xiaoya-tvbox
 jackytj/sillyplus
 mtphotos/mt-photos
+difegue/lanraragi
+windycloud/lanraragi_cn
