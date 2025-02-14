@@ -32,4 +32,5 @@
 #windycloud/lanraragi_cn
 #diygod/rsshub
 #phitux/dailytxt
-jasminexzzz/blossom
+#jasminexzzz/blossom
+mysql:8.0.31
