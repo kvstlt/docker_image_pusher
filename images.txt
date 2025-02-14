@@ -31,4 +31,5 @@
 #difegue/lanraragi
 #windycloud/lanraragi_cn
 #diygod/rsshub
-phitux/dailytxt
+#phitux/dailytxt
+jasminexzzz/blossom
