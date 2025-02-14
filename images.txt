@@ -30,4 +30,5 @@
 #mtphotos/mt-photos
 #difegue/lanraragi
 #windycloud/lanraragi_cn
-diygod/rsshub
+#diygod/rsshub
+phitux/dailytxt
