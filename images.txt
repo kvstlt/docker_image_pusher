@@ -34,3 +34,4 @@
 #phitux/dailytxt
 #jasminexzzz/blossom
 mysql:8.0.31
+redis
