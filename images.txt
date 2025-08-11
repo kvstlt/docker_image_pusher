@@ -36,3 +36,4 @@ gdy666/lucky
 #mysql:8.0.31
 #redis
 #dbeaver/cloudbeaver
+apache/hertzbeat
