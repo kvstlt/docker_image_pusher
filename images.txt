@@ -16,7 +16,7 @@
 #bitnami/minio
 #redis:7.0.12
 #mysql:5.7
-#gdy666/lucky
+gdy666/lucky
 #wiznote/wizserver
 #joplin/server
 #hpmyadmin
@@ -35,4 +35,4 @@
 #jasminexzzz/blossom
 #mysql:8.0.31
 #redis
-dbeaver/cloudbeaver
+#dbeaver/cloudbeaver
